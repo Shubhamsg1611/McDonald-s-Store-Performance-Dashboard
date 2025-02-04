@@ -1,7 +1,9 @@
 # McDonald's-Store-Performance-Dashboard
 This dashboard provides an analytical view of McDonald's store performance across various locations in Maharashtra. It offers insights into sales, order types, peak revenue hours, popular products, profit margins, and customer loyalty metrics. The visualized data enables better decision-making for improving sales and operational efficiency.
 
+
 ![](https://github.com/Shubhamsg1611/McDonald-s-Store-Performance-Dashboard/blob/main/McDonald's%20Store%20Performance%20Dashboard.jpeg)
+
 
 ## Dataset Information:
 The dataset consists of various metrics collected from McDonald's stores across different cities in Maharashtra. 
